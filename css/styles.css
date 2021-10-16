@@ -35,10 +35,18 @@ p {
 	line-height:22px;
 }
 .hl{
-    color: blacks		;
+    color: #0c2147;
     line-height: 30px;
+    margin-left: 59px;
+    margin-right: 50px;
+    margin-top: -21px;
 }
-.fb{color: #FF3300 !important;}
+.fb{color: #FF3300 !important;
+font-size: 100px;
+margin-left: 10%;
+}
+.tm-red-text{margin-left: 10%;}
+
 .it{color: #FF3300 !important;}
 .white{
 	background:#fff;
